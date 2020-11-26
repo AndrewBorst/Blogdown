@@ -1,1 +1,3 @@
 # Blogdown
+
+R blog generation.
